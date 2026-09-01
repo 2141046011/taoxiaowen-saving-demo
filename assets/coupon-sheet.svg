@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="375.8" height="187.8" viewBox="0 0 375.8 187.8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Subtract" filter="url(#filter0_f_0_104)">
+<path d="M361.9 5.9C366.318 5.9 369.9 9.48172 369.9 13.9V53.9C369.9 55.0046 368.991 55.8743 367.92 56.1469C364.46 57.0279 361.9 60.165 361.9 63.9C361.9 67.635 364.46 70.7721 367.92 71.6531C368.991 71.9257 369.9 72.7954 369.9 73.9V112.9C369.9 114.005 368.991 114.874 367.92 115.147C364.46 116.028 361.9 119.165 361.9 122.9C361.9 126.635 364.46 129.772 367.92 130.653C368.991 130.926 369.9 131.795 369.9 132.9V173.9C369.9 178.318 366.318 181.9 361.9 181.9H13.9C9.48172 181.9 5.9 178.318 5.9 173.9V132.9C5.9 131.795 6.80934 130.926 7.87976 130.653C11.3405 129.772 13.9 126.635 13.9 122.9C13.9 119.165 11.3405 116.028 7.87976 115.147C6.80934 114.874 5.9 114.005 5.9 112.9V73.9C5.9 72.7954 6.80934 71.9257 7.87976 71.6531C11.3405 70.7721 13.9 67.635 13.9 63.9C13.9 60.165 11.3405 57.0279 7.87976 56.1469C6.80934 55.8743 5.9 55.0046 5.9 53.9V13.9C5.9 9.48172 9.48172 5.9 13.9 5.9H361.9Z" fill="#E73D50" fill-opacity="0.2"/>
+</g>
+<defs>
+<filter id="filter0_f_0_104" x="0" y="0" width="375.8" height="187.8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.95" result="effect1_foregroundBlur_0_104"/>
+</filter>
+</defs>
+</svg>
